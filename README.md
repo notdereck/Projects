@@ -1,1 +1,15 @@
 # Projects
+
+Here's where all my projects are.
+
+1. NYC subways
+
+2. Linear Regression and Bitcoin Prices
+
+3. OKCupid and Dog Lovers classification
+
+4. Unsupervised Learning with genius.com lyrics and NLP
+
+5. Automated GDAX Litecoin trading bot with multivariate time series
+
+
