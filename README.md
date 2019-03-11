@@ -12,4 +12,4 @@ Here's where all my projects are.
 
 5. Automated GDAX Litecoin trading bot with multivariate time series
 
-![Work In Progress](https://images.roadtrafficsigns.com/img/lg/K/Under-Construction-Sign-K-7181.gif)
+A lot of this is old, but I'm happy to talk about these!
